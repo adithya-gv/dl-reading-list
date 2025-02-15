@@ -13,7 +13,7 @@ A list of papers that I believe are either important or useful for understanding
 | [Attention is All You Need](https://arxiv.org/pdf/1706.03762) | Arugably one of the two most important papers in modern deep learning, along with AlexNet, this paper proposed the Transformer, the building block to large language models, and a huge milestone in language understanding for deep learning models. |
 | [Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602) | A key breakthrough in reinforcement learning, this paper combined modern efforts in deep learning with goal-based learning approaches, instead of loss-based approaches. |
 | [Denoising Diffusion Models](https://arxiv.org/pdf/2006.11239) | This paper proposed an architecture and algorithm for image generation that produced highly life-like images, a key landmark in artificial image understanding. |
-| [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165) | This is the paper that was released alongside the original ChatGPT, explained how very large language models could demonstrate viable performance in tasks they had limited knowledge in. |
+| [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165) | This is the paper that was released alongside the original ChatGPT, explaining how very large language models could demonstrate viable performance in tasks they had limited knowledge in. |
 
 ## Computer Vision
 *Important works in computer vision.*
